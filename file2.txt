@@ -2,3 +2,12 @@ Nuevos cambios realizados al documento
 Se agregan cambios para verificar
 
 Cambiado
+
+
+Realizamos cambios de pruebas para ver los merger de un archivo anterior
+
+
+Cambio 1: Cambios prueba
+
+
+Cambio 2: Cambios prueba
