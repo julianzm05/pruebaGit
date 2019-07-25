@@ -3,9 +3,20 @@ Se agregan cambios para verificar
 
 Cambiado
 
+# Cambio realizado en la rama desarrollo
 Realizamos cambios a las rama de desarrollo
 
 Cambio 1 para rama de desarrollo
 
 
 Cambio 2 para rama de desarrollo
+
+#Cambios en la rama de pruebas
+
+Realizamos cambios de pruebas para ver los merger de un archivo anterior
+
+
+Cambio 1: Cambios prueba
+
+
+Cambio 2: Cambios prueba
