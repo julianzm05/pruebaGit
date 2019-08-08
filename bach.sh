@@ -1,7 +1,11 @@
 #!/bin/bash
 
-echo Esto es una prueba de un .bash
+echo COMINEZA EJECUCIÓN BORRADO DE DATOS SMNET - CONSULTAR
 
-sleep 10s
+/sm/postgres/bin/psql -U sm -d fps -c 'SELECT * FROM fps_entidad LIMIT 1'
 
-echo Fin prueba
+echo FINALIZA LA EJECUCIÓN DE BORRADO DE DATOS SMNET - CONSULTAR
+
+
+
+
